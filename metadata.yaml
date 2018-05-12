@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9720
     wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21082#Salmos-do-prisioneiro
 gutenberg_issued: '2007-04-15'
 gutenberg_type: Text
 identifiers:
